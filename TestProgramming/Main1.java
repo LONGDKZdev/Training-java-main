@@ -33,7 +33,6 @@ public class Main1 {
     public static void main(String[] args) {
         // Tạo một đối tượng Car
         Car myCar = new Car("Toyota");
-        
 
         // Gọi các phương thức của đối tượng Car
         myCar.start();         // Khởi động xe
